@@ -15,4 +15,6 @@
 	The test program cannot print out the tree, the only way to test
 	is that user can insert or delete any value and use find to check
 	if the functions work well.
+	
+	# Thanks for visit.
 
