@@ -4,12 +4,12 @@ using namespace std;
 int main(){
 	string input;
 	TriTree *tree=new TriTree;
-	cout<<"**************************************************"<<endl;
+	cout<<"**************************************************"<<endl<<endl;
 	cout<<"This is a program for test the Tri-nary Tree class"<<endl;
 	cout<<"The program iteratively take input"<<endl;
 	cout<<"Please closely follow the instruction. since it is"<<endl;
 	cout<<"just for test, it cannot check if input is valid"<<endl;
-	cout<<"**************************************************"<<endl;
+	cout<<"**************************************************"<<endl<<endl;
 	while(1){
 		cout<<"i for insert, d for delete, f for find and any other input for quit: ";
 		cin>>input;
